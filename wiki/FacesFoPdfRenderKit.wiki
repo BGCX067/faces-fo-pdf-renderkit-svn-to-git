@@ -1,0 +1,4 @@
+#summary PDF generation on-the-fly with XSL-FO templates and JSF data binding using Apache FOP.
+
+= Introduction =
+Recent version of JSF specification provides Render Kit API which opens up innovative ways for rendering faces output. A new approach has been implemented for PDF generation on-the-fly with XSL-FO templates and JSF data binding using Apache FOP.
